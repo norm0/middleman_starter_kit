@@ -3,6 +3,6 @@
 //------------------------------------
 
 // Named export `doStuff`
-export const doStuff = () => {
-  console.log('Doing stuff…');
-};
+// export const doStuff = () => {
+//   console.log('Doing stuff…');
+// };

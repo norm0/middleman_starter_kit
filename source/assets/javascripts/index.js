@@ -5,9 +5,9 @@
 /* eslint-disable no-undef */
 
 // Import Style
-import "../stylesheets/tailwind.css";
-
+import '../stylesheets/tailwind.css';
 import "../stylesheets/application.scss";
+import '@fortawesome/fontawesome-free/js/all.js';
 
 // Import stimulus.js
 import { Application } from "stimulus";

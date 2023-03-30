@@ -2,7 +2,11 @@
 
 module.exports = {
   // mode: "jit",
-  purge: ["./source/**/*.html.erb"],
+  content: [
+    // Example content paths...
+    './source/**/*.html.erb'
+  ],
+
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
