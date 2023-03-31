@@ -4,7 +4,6 @@ source 'https://rubygems.org'
 
 # Middleman Gems
 ###############################
-gem 'middleman', '~> 4.3', '>= 4.3.11'
-gem 'middleman-autoprefixer', '~> 2.10', '>= 2.10.1'
+gem 'middleman', '~> 4.4.2'
+gem 'middleman-autoprefixer', '~> 3.0'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.7'
-
