@@ -7,7 +7,6 @@ module.exports = {
     './source/**/*.html.erb'
   ],
 
-  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
   },
